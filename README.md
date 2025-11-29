@@ -1,5 +1,3 @@
-# Thunderbolt Quantum Navigator Windows 10 Mobile Edition
-Thunderbolt Quantum Navigator Windows 10 Mobile Edition, is the Windows Phone counterpart of the browser released for Windows 10/11 based on UWP and Win32 that can be found here:
-[https://github.com/Villager2021/Thunderbolt-Browser](https://github.com/ThunderboltCommunicationsCorp/Thunderbolt-Quantum-Navigator)
-[https://github.com/ThunderboltCommunicationsCorp/Thunderbolt-Quantum-Navigator-UWP](https://github.com/ThunderboltCommunicationsCorp/Thunderbolt-Quantum-Navigator-UWP)
-# This is supported by arm based devices running Windows 10 Mobile Fall Creators Update (1709) Only. Any preview builds after that for the once planned 1803 will also be able to run it. It is strongly advised that you use this on a Lumia 950 XL with the default resolution.
+# Thunderbolt Quantum Navigator (Mobile)
+Thunderbolt Quantum Navigator (Mobile), is a breath of fresh air for all the Windows Phone fans due to it's unique ability to display modern websites using the Chromium engine natively on Windows 10 Mobile. Support for Windows Phone 8.1 is not present yet but will be added eventually. The project is in a very early stage and not yet available for distribution with a currently planned Open Beta targeted for late 2026.
+# This is supported by arm based devices running Windows 10 Mobile Creators Update (1703) and later. Any preview builds after that for the once planned 1803 will also be able to run it. It is strongly advised that you use this on a Lumia 950 XL or other higher end Lumias for the best experience due to the lack of optimization when it comes to Chromium.
