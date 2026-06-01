@@ -12,3 +12,5 @@ Disclaimer: The browser in it's current state, does not use and will not use the
 If you encounter any bugs please report them at once, including a screenshot and the model of phone you're using to run said application.
 
 <a href="https://apps.microsoft.com/store/detail/9N7S6VG2V17H?cid=DevShareMCLPCS" target="_blank"><img src="https://github.com/Thundercom-Software/Thunderbolt-Quantum-Navigator-Mobile/blob/main/Download-from-Windows-Store-Logo.png" style="width: 250px;" alt="Get Thunderbolt Quantum Navigator from the Windows Store"></a>
+
+Important Notice: The Microsoft Store based version of Thunderbolt Quantum Navigator Mobile, will only install if no other version of Thunderbolt Quantum Navigator Mobile is installed on the device outside of the Microsoft Store. This does not affect Thunderbolt Quantum Navigator for Windows Phone 8.1.
